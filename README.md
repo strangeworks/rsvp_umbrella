@@ -1,4 +1,3 @@
-# RsvpUmbrella
+# RsvpUmbrella - dummy elixir umbrella app
 
-**TODO: Add description**
-
+Sandbox app to play with different elixir features

@@ -18,6 +18,7 @@ defmodule RsvpWeb.Router do
 
     get "/", PageController, :index
     get "/events/:id", EventController, :show
+    get "/events/", EventController, :index
   end
 
   # Other scopes may use custom stacks.
